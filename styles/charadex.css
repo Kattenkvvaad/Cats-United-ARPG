@@ -517,8 +517,8 @@ img {
 }
 
 .img-thumbnail{
-  border-color:var(--secondary-color);
-  background-color:var(--secondary-color);
+  border-color:var(--cd-secondary-color);
+  background-color:var(--cd-secondary-color);
 }
 
 /* Fix any border radiuses that were messed from before */
