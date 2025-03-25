@@ -516,6 +516,11 @@ img {
   image-rendering: -webkit-optimize-contrast;
 }
 
+.img-thumbnail{
+  border-color:var(--secondary-color);
+  background-color:var(--secondary-color);
+}
+
 /* Fix any border radiuses that were messed from before */
 .rounded {border-radius: var(--cd-border-radius) !important}
 .rounded-circle {border-radius: 100%;}
