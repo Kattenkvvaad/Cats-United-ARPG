@@ -51,11 +51,11 @@ body {
   /* ============================================================= */
   /* Navbar
   ================================================================ */
-  --cd-navbar-background-color:          #f7f7f7;
+  --cd-navbar-background-color:          #222;
   --cd-navbar-brand-color:               var(--cd-primary-color);
   --cd-navbar-brand-color-hover:         var(--cd-secondary-color);
   --cd-navbar-text-color:                var(--cd-content-background-color);
-  --cd-navbar-link-color:                var(--cd-navbar-text-color);
+  --cd-navbar-link-color:                var(--cd-secondary-text-color);
   --cd-navbar-link-color-hover:          var(--cd-primary-color);
   --cd-navbar-font-family:               var(--cd-header-font-family);
   
