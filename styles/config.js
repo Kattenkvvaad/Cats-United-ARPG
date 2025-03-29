@@ -87,7 +87,7 @@ let options = {
         logSheetPage: sheetPages.inventoryLog,
     
         itemAmount: 24,
-        sortTypes: ['Territory Slots', 'Cats'],
+        sortTypes: ['Territory Slots', 'Characters'],
         
         searchFilterParams: ['Username'],
     
