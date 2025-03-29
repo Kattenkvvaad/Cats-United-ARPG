@@ -97,7 +97,7 @@ body {
 
   /* Link/Text */
   --cd-footer-text-color:                var(--cd-navbar-text-color);
-  --cd-footer-link-color:                var(--cd-navbar-link-color);
+  --cd-footer-link-color:                var(--cd-navbar-link-color-hover);
   --cd-footer-link-color-hover:          var(--cd-navbar-link-color-hover);
 
 
