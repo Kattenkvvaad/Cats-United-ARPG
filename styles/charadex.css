@@ -114,7 +114,7 @@ body {
   ================================================================ */
 
   --cd-hr-border-width:                  var(--cd-border-width);
-  --cd-hr-border-color:                  var(--cd-border-color);
+  --cd-hr-border-color:                  var(--cd-secondary-color);
   --cd-hr-border-style:                  var(--cd-border-style);
 
 
